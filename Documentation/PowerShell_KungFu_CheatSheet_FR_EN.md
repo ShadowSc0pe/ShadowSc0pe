@@ -1,10 +1,10 @@
-# 🥷 PowerShell Kung-Fu – Cheat Sheet (FR & EN)
+# PowerShell Kung-Fu – Cheat Sheet (FR & EN)
 
 Fiche mémo complète des commandes PowerShell pour l’administration, la cybersécurité, et la réponse à incident. Version bilingue 🇫🇷/🇬🇧.
 
 ---
 
-## 🇫🇷 Version Française
+## Version Française
 
 ### Fichiers & Dossiers
 ```powershell
@@ -92,7 +92,7 @@ Start-Sleep -Seconds 5
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 ### Files & Directories
 ```powershell
