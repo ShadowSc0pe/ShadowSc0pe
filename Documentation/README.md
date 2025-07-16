@@ -31,7 +31,7 @@ Ce dossier contient mes notes personnelles ainsi que des versions PDF de cheat s
 
 - [Hack The Box Academy](https://academy.hackthebox.com/)
 - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-- [PowerShell Offensive](https://book.hacktricks.xyz/pentesting/powershell)
+- [PowerShell Offensive](https://book.hacktricks.wiki/en/windows-hardening/mythic.html#powershell--scripting-execution)
 
 ---
 
