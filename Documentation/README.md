@@ -15,15 +15,7 @@ Ce dossier contient mes notes personnelles ainsi que des versions PDF de cheat s
 | `PowerShell_KungFu.md` | Début d’un référentiel PowerShell orienté Red Team. Inclut des commandes utiles pour l'exécution, l'obfuscation, la persistance et la collecte de données, dans un cadre éthique. |
 | `Linux_Fundamentals.md` | Commandes essentielles Linux pour la ligne de commande, utiles en contexte Red Team (navigation, gestion des processus, droits, transferts de fichiers). |
 | `Windows_Fundamentals.md` | Concepts Windows de base, utiles pour préparer des escalades de privilèges, identifier des faiblesses locales et comprendre l’environnement système visé. |
-
----
-
-## Prochains fichiers à venir
-
-- `Intro_to_Bash_Scripting.md` : automatisation sous Linux
-- `Network_Recon_Notes.md` : découverte réseau & scan offensif
-- `Active_Directory_Attacks.md` : enumeration & attaques basiques AD
-- `Payloads_Notes.md` : payloads personnalisés PowerShell & bash
+| `Intro_To_Network_Traffic_Analysis_Module_Cheat_Sheet.md` | Concepts fondamentaux d’analyse du trafic réseau : modèles OSI/TCP-IP, outils de capture comme TCPdump, identification des protocoles, compréhension des flux réseau et détection de comportements suspects. |
 
 ---
 
