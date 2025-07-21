@@ -16,6 +16,7 @@ Ce dossier contient mes notes personnelles ainsi que des versions PDF de cheat s
 | `Linux_Fundamentals.md` | Commandes essentielles Linux pour la ligne de commande, utiles en contexte Red Team (navigation, gestion des processus, droits, transferts de fichiers). |
 | `Windows_Fundamentals.md` | Concepts Windows de base, utiles pour préparer des escalades de privilèges, identifier des faiblesses locales et comprendre l’environnement système visé. |
 | `Intro_To_Network_Traffic_Analysis_Module_Cheat_Sheet.md` | Concepts fondamentaux d’analyse du trafic réseau : modèles OSI/TCP-IP, outils de capture comme TCPdump, identification des protocoles, compréhension des flux réseau et détection de comportements suspects. |
+| `Grok_Patterns_Reference.md` | Recueil de Grok Patterns pour parser et analyser les logs de sécurité (SSH, sudo, PAM, auditd, Nginx, DNS, etc.). Idéal pour des projets ELK, SIEM ou forensic en environnement Red/Blue Team. |
 
 ---
 
